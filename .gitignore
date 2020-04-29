@@ -1,0 +1,10 @@
+.DS_Store
+.DS_Store?
+*.spl
+*.sug
+.gdb_history
+*.zip
+*.tgz
+*.tar.gz
+bak
+zshrc-extra
